@@ -1,0 +1,7 @@
+{
+  "name": "AI Fashion Studio",
+  "description": "A high-end virtual try-on application using Gemini 3 and 2.5 models to visualize outfits on models through an advanced two-step AI pipeline.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
